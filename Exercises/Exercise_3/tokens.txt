@@ -1,13 +1,16 @@
+ex1a = "5vVXD4DMxdgBLrfP5agkqzjw5H/K7Fa2bzpsiz2EsOk="
+
+ex1b = "LL7RJvLA4QxTENKoWMpKMd4xqcuXFXi94YyWBQRwzkI="
+
+ex1c = "6JnSC/iWtyNM7PDMXvEPN1a00nT4D5EhtEl4SPvpCxY="
 
 
 
+ex2a = "iP31yAeBVawk494t9905kw2QDiOWcWbK+K5mIHY0Q30="
 
+ex2b = "WZmBWQhTIZ2TJN4R7TlRZlAefzJepu4Uo29piMLw9ww="
 
-
-
-
-
-
+ex2c = "fQppYO91aMtED6CzeF3TPApZNxc38ZfRsqX8fnHuQck="
 
 
 
@@ -15,4 +18,6 @@ ex3a = "opQ+ZOgbVQFILh26QS12f7XKu5dfir0m6kGPx/zDqdw="
 
 ex3b = "/sYZXyvpa5FtShh9KkxWlHEuDPQlZluI8vbJJbgkAWY="
 
-ex4 = FGkRA/RGXVmqaKIA0075KSXrp7ppUhKN+zzzpfEZBcI=
+
+
+ex4 = "FGkRA/RGXVmqaKIA0075KSXrp7ppUhKN+zzzpfEZBcI="
