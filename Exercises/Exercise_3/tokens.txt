@@ -1,0 +1,18 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+ex3a = "opQ+ZOgbVQFILh26QS12f7XKu5dfir0m6kGPx/zDqdw="
+
+ex3b = "/sYZXyvpa5FtShh9KkxWlHEuDPQlZluI8vbJJbgkAWY="
+
+ex4 = FGkRA/RGXVmqaKIA0075KSXrp7ppUhKN+zzzpfEZBcI=

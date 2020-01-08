@@ -1,0 +1,7 @@
+
+
+ex2 = "N/LR4bZuxU4KKZFUBMIZ+3HVr48R8A/pAlJJOOtf6kI="
+
+ex3 = "hCJZv0tHj+7PIuz4+FH3PWwX0cvfsnOA0e+FeRUJCwU="
+
+ex4 = "mjKoNHXAlLJ1b+EncFOwFGgpt5l6yptXftbRYugg1RQ="
